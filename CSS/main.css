@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+.panel {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 20px 10px;
+    margin: 5px 20px;
+
+}
+.panelInfo {
+    margin: 10px 0px 0px;
+    position: relative;
+}
+.panelInfo h2, button {
+    margin: 10px;
+}
+.panel:first-child {
+    margin-top: 50px;
+}
+.panelCard button {
+    
+}
+#footer {
+    color:white;
+}
+#footer .nav-link {
+    color:white;
+}
+.bg-title {
+    background-image:url(/ZacharyFarrowPortfolio/IMG/Banshee900R.jpg);
+    background-position: center;
+}
